@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Emma 👋
 
-<!--
-**strwbtart/strwbtart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science student at UTRGV  
+🔧 IT Classroom Support Student Assistant  
+🌎 Bilingual (English & Spanish)
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- C++, Java
+- Python (basic)
+- HTML, CSS, JavaScript (basic)
+- Git, Bash (basic)
+- IT Support & Troubleshooting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- ✈️ Voyage Travel Itinerary Web App (Flask, SQL)
+- 🧮 Java Calculator (OOP, Java Swing)
+
+## 📫 Connect with me
+- LinkedIn: https://linkedin.com/in/emmapacheco
