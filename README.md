@@ -1,8 +1,10 @@
 # Hi, I'm Emma 👋
 
-💻 Computer Science Student at UTRGV  
-🔧 IT Classroom Support Student Assistant  
-🌎 Bilingual (English & Spanish)
+💻 Computer Science Student @ UTRGV  
+🔧 IT Support (Classroom Technology & AV Systems)  
+🌎 Bilingual (English & Spanish)  
+
+🎯 Seeking entry-level IT / Help Desk roles
 
 ## 🔧 Skills
 - C++, Java (Proficient)
